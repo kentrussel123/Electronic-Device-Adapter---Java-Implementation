@@ -25,4 +25,7 @@ RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard pow
 
 SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 In your solution you must provide the following in your Github link account:
+
+# UML Class Diagram
+
 ![image](https://github.com/kentrussel123/Electronic-Device-Adapter---Java-Implementation/assets/109691713/e8b3c512-1313-45e0-a9a8-1f2df90ec438)
