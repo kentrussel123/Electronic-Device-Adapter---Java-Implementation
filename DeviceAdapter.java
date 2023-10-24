@@ -1,0 +1,3 @@
+interface DeviceAdapter {
+    void plugIn();
+}
